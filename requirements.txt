@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+
+# Optional: high-performance vectorized backtesting engine
+# pip install vectorbt
+# vectorbt>=0.26
+
+# Optional: market data download for examples and walk-forward demos
+# pip install yfinance
+# yfinance>=0.2
+
+# Optional: technical analysis indicators (C extension, requires build tools)
+# See https://github.com/TA-Lib/ta-lib-python for platform-specific install
+# ta-lib>=0.4
